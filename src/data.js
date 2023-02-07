@@ -1,54 +1,38 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Blogr",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Introducing Blogr, a modern publishing platform and editor that revolutionizes the way you create and share content. Empowering writers and bloggers with a clean and intuitive interface.",
+    image: "./blogr.png",
+    link: "https://ayoola-blogr-page.netlify.app",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Easybank",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    "Introducing Easy Bank a financial management platform built with cutting-edge technologies for a seamless banking experience Designed to simplify personal finances with a user-friendly interface",
+    image: "./easybank.png",
+    link: "https://easybank-ayoolaogun.netlify.app",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Loopstudios",
+    subtitle: "React",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "Introducing LopStudios, a leader in interactive VR technology that creates immersive experiences. Revolutionizing the way people engage with digital content.",
+    image: "./loopstudios.png",
+    link: "https://ayoola-ogun-loopreact.netlify.app",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "My personal portfolio",
+    subtitle: "React-portfolo",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "Introducing my portfolio project, built with React and Tailwind CSS for a dynamic user experience   Showcasing my skills and achievements as a developer",
+    image: "./portfolio.png",
+    link: "",
   },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
 
 export const skills = [
   "JavaScript",
@@ -56,5 +40,5 @@ export const skills = [
   "Material UI",
   "Git",
   "HTML,Css",
-  
+
 ];
