@@ -35,7 +35,7 @@ With my strong communication and collaboration skills, I work closely with cross
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10">
           <img
             className="object-cover object-center rounded"
             alt="hero"
